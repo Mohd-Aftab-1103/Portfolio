@@ -19,9 +19,9 @@ export default function Home() {
       </Paragraph>
       <Paragraph className="max-w-xl mt-4">
         I&apos;m a software engineer with
-        <Highlight>4+ years of experience</Highlight> on building scalable web
+        experience in building scalable web
         apps that are performance optimized and good looking and{" "}
-        <Highlight>1+ years of experience</Highlight> in industry.
+        <Highlight>of experience</Highlight> in making responsive web applications.
       </Paragraph>
       <Heading
         as="h2"
